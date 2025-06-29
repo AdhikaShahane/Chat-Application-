@@ -26,3 +26,10 @@ Express.js: The Backend Framework Built on top of Node.js, Express.js provides a
 •	HTTP Server Creation: It abstracts away the complexities of creating an HTTP server, allowing socket.io to easily attach itself for real-time communication.
 Socket.IO: The Heart of Real-Time Communication Socket.IO is the cornerstone of the application's real-time capabilities. Unlike traditional HTTP requests (which are short-lived and unidirectional), Socket.IO establishes a persistent, bidirectional communication channel ) between the client and the server.
 
+![Image](https://github.com/user-attachments/assets/08c3e4d6-8ed5-4707-8bf1-6d000072d72c)
+
+![Image](https://github.com/user-attachments/assets/086e6136-d24f-4c5a-8247-66b086755aff)
+![Image](https://github.com/user-attachments/assets/89115abc-f30c-446f-8faa-b6c0166c2b40)
+![Image](https://github.com/user-attachments/assets/46b80955-d78d-4ff9-8d2b-064cfd896ba9)
+![Image](https://github.com/user-attachments/assets/5c936ad5-f6c6-4858-a9ce-43438add09ac)
+
